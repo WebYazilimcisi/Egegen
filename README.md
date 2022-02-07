@@ -1,0 +1,2 @@
+# Egegen
+spectrum sitesi
